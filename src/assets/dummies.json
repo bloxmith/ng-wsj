@@ -1,0 +1,17 @@
+[
+	{
+		"firstName": "Mark",
+		"lastName": "Otto",
+		"handle": "mdo"
+	},
+	{
+		"firstName": "Jacob",
+		"lastName": "Thornton",
+		"handle": "fat"
+	},
+	{
+		"firstName": "Larry the Bird",
+		"lastName": null,
+		"handle": "twitter"
+	}
+]
